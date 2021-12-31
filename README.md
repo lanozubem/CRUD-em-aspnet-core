@@ -7,3 +7,8 @@
 - Criar um banco de dados em memória para manter produtos.
 - Adicionar suporte para operações CRUD.
 - Testar métodos de ação de API Web no shell de comando.
+
+
+### Pré-requisitos
+- Instalações locais do [SDK do .NET](https://dotnet.microsoft.com/download) e do [Visual Studio Code](https://code.visualstudio.com/)
+- [Extensão do C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) para Visual Studio Code
