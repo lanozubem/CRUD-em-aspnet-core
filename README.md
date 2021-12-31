@@ -1,6 +1,7 @@
 # Criar uma API Web com os controladores do ASP.NET Core
 
-### Crie um serviço RESTful com os controladores do ASP.NET Core que dá suporte a operações de CRUD (criação, leitura, atualização e exclusão).
+#### Crie um serviço RESTful com os controladores do ASP.NET Core que dá suporte a operações de CRUD (criação, leitura, atualização e exclusão).
+
 ## Objetivos
 
 - Crie um projeto de API Web com os controladores do ASP.NET Core.
@@ -9,6 +10,7 @@
 - Testar métodos de ação de API Web no shell de comando.
 
 
-### Pré-requisitos
+## Pré-requisitos
+
 - Instalações locais do [SDK do .NET](https://dotnet.microsoft.com/download) e do [Visual Studio Code](https://code.visualstudio.com/)
 - [Extensão do C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) para Visual Studio Code
